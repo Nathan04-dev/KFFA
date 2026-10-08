@@ -1,4 +1,4 @@
-Ein Jump-and-Run-Spiel entwickelt mit Java + Spigot API 
+Ein Knockback FFA Spielmodus entwickelt mit Java + Spigot API 
 
 Features:
 
