@@ -1,13 +1,13 @@
 Ein von mir entwickeltes Minecraft-Plugin für einen Knockback-FFA-Spielmodus.
 
-Features
-⚔️ Knockback-basiertes Free-For-All-Spielsystem
-🗄️ Integrierte SQL-Datenbank zur persistenten Speicherung von Spielerdaten
-📊 Speicherung und Verwaltung von Statistiken
-⚙️ Konfigurierbare Spielmechaniken und Einstellungen
-🚀 Performance-orientierte Entwicklung
-🔌 Modulare und erweiterbare Plugin-Struktur
-☕ Entwickelt mit Java + Spigot API für die Minecraft-Serverplattform
+Features:
+Knockback-basiertes Free-For-All-Spielsystem
+Integrierte SQL-Datenbank zur persistenten Speicherung von Spielerdaten
+Speicherung und Verwaltung von Statistiken
+Konfigurierbare Spielmechaniken und Einstellungen
+Performance-orientierte Entwicklung
+Modulare und erweiterbare Plugin-Struktur
+Entwickelt mit Java + Spigot API für die Minecraft-Serverplattform
 
 Das Projekt zeigt praktische Erfahrung in Java-Entwicklung, Minecraft-Plugin-Entwicklung, SQL-Datenbanken, Datenpersistenz und Backend-Entwicklung.
 
