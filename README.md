@@ -1,5 +1,4 @@
-Ein Jump-and-Run-Spiel entwickelt von Nathanael Mabombo
-
+Ein Jump-and-Run-Spiel 
 Features:
 
 
