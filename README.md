@@ -3,6 +3,7 @@ Ein Jump-and-Run-Spiel entwickelt mit Java + Spigot API
 Features:
 
 Integrierte SQL-Datenbank zur Speicherung von Spielerstatistiken
+
 Konfigurierbare Spielmechaniken und Einstellungen
 
 
