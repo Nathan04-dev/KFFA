@@ -1,11 +1,8 @@
 Ein Jump-and-Run-Spiel entwickelt mit Java + Spigot API 
 
+Features:
 
-Entwickelt mit Java + Spigot API für die Minecraft-Serverplattform
-
-Knockback-basiertes Free-For-All-Spielsystem
-
-Integrierte SQL-Datenbank zur persistenten Speicherung von Spielerdaten
+Integrierte SQL-Datenbank zur Speicherung von Spielerstatistiken
 
 
 Modulare und erweiterbare Plugin-Struktur
