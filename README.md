@@ -8,6 +8,7 @@ Killstreak-Belohnungen: Spezielle Effekte oder Belohnungen für Spieler, die meh
 
 Technische Details
 Plattform: Spigot / Paper (Minecraft Server)
+
 Programmiersprache: Java
 Datenbank: MySQL / MariaDB (für Spielerstatistiken)
 
