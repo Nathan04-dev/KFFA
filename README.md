@@ -2,17 +2,17 @@ Ein Jump-and-Run-Spiel entwickelt von Nathanael Mabombo
 
 Features:
 
+
+Entwickelt mit Java + Spigot API für die Minecraft-Serverplattform
+
 Knockback-basiertes Free-For-All-Spielsystem
 
 Integrierte SQL-Datenbank zur persistenten Speicherung von Spielerdaten
 
-Programmiert mit C# 
 
 Modulare und erweiterbare Plugin-Struktur
 
 Konfigurierbare Spielmechaniken und Einstellungen
-
-Entwickelt mit Java + Spigot API für die Minecraft-Serverplattform
 
 
 <img width="521" height="314" alt="kffa3" src="https://github.com/user-attachments/assets/55ffc2c8-3848-456f-a747-0cb94a42c9b3" />
