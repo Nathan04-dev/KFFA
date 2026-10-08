@@ -12,4 +12,4 @@ Datenbank: MySQL / MariaDB (für Spielerstatistiken)
 
 <img width="561" height="297" alt="kffa" src="https://github.com/user-attachments/assets/e75d725c-e7d0-4df6-8588-026cc14c895d" />
 <img width="521" height="314" alt="kffa3" src="https://github.com/user-attachments/assets/55ffc2c8-3848-456f-a747-0cb94a42c9b3" />
-<img width="1920" height="1080" alt="2021-09-18_15 39 34" src="https://github.com/user-attachments/assets/43e78d09-3b24-4f2d-b544-81ba99e746dd" />
+<img width="1920" height="1080" alt="2021-09-18_17 14 07" src="https://github.com/user-attachments/assets/29e1762e-fcda-47f9-9beb-cdfb8be2539f" />
