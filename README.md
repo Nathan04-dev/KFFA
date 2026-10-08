@@ -1,5 +1,4 @@
-Ein Jump-and-Run-Spiel 
-Features:
+Ein Jump-and-Run-Spiel entwickelt mit Java + Spigot API 
 
 
 Entwickelt mit Java + Spigot API für die Minecraft-Serverplattform
