@@ -1,7 +1,7 @@
 Ein KnockBack FFA-Plugin entwickelt von Nathanael Mabombo
 
 🚀 Features
-Flüssiges Knockback-System: Perfekt abgestimmte Rückstoss-Mechaniken für ein dynamisches und faires PvP-Erlebnis.
+Perfekt abgestimmte, dynamisches und faires PvP-Erlebnis.
 SQL-Datenbankanbindung: Zuverlässige Speicherung von Spielerdaten wie Kills, Deaths, Killstreaks
 Kit- & Item-Verwaltung: Automatisiertes Verteilen von Ausrüstung beim Respawn sowie Schutz vor Item-Verlust.
 Killstreak-Belohnungen: Spezielle Effekte oder Belohnungen für Spieler, die mehrere Gegner in Folge besiegen.
