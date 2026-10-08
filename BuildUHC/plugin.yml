@@ -1,0 +1,50 @@
+name: BuildUHC
+version: 1.0
+author: Sorpex
+main: at.nathi.main.Main
+
+commands:
+  builduhc:
+   description: Main command
+   usage:
+   
+   
+  freeze:
+   description: Freeze Command
+   
+   
+  stats:
+   description: Stats Command
+   
+   
+  setstats:
+   description: set Stats Command
+  
+  
+  help:
+   description: BuildUHC Help Command
+   
+   
+  deathheight:
+   description: Deathheight Command
+   
+   
+  invsee:
+   description: Invsee Command
+   
+   
+  build:
+   description: Build Command
+  
+  
+  gamemode:
+   description: Gamemode Command
+  
+  
+  cc:
+   description: Chatclear Command
+
+   
+  gm:
+   description: gm Command
+   
