@@ -1,5 +1,5 @@
 Ein von mir entwickeltes Minecraft-Plugin für einen Knockback-FFA-Spielmodus.
-
+(Seit jun 2022.)
 Features:
 Knockback-basiertes Free-For-All-Spielsystem
 Integrierte SQL-Datenbank zur persistenten Speicherung von Spielerdaten
