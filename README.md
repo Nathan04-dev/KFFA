@@ -6,9 +6,9 @@ Konfigurierbare Spielmechaniken und Einstellungen
 
 Integrierte SQL-Datenbank zur Speicherung von Spielerstatistiken
 
-Integrierter Schutz gegen Spawn-Camping und unfaire Spielweisen
+Integriertes KillSystem + Respawn System
 
-Biete deinen Spielern verschiedene Kits oder freischaltbare Extras
+Bietet Spielern verschiedene Kits oder freischaltbare Extras
 
 
 <img width="521" height="314" alt="kffa3" src="https://github.com/user-attachments/assets/55ffc2c8-3848-456f-a747-0cb94a42c9b3" />
