@@ -6,7 +6,7 @@ Konfigurierbare Spielmechaniken und Einstellungen
 
 Integrierte SQL-Datenbank zur Speicherung von Spielerstatistiken
 
-Integriertes KillSystem + Respawn System
+Integriertes KillSystem + Respawn System + Leaderboards
 
 Bietet Spielern verschiedene Kits oder freischaltbare Extras
 
