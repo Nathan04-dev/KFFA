@@ -1,4 +1,4 @@
-Ein Knockback FFA Spielmodus entwickelt mit Java + Spigot API (Begonnen 2022)
+Ein Knockback FFA Spielmodus entwickelt mit Java + Spigot API 
 
 Features:
 
