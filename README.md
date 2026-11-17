@@ -10,7 +10,6 @@ Ein actionreicher Knockback-FFA-Spielmodus entwickelt von Nathanael Mabombo. Ste
 - **Respawn-System** – Automatischer Respawn nach dem Ausscheiden
 - **Leaderboards** – Übersicht der besten Spieler und ihrer Statistiken
 - **Verschiedene Kits** – Unterschiedliche Ausrüstungen für abwechslungsreiche Kämpfe
-- **Freischaltbare Extras** – Zusätzliche Inhalte und Erweiterungen für Spieler
 
 ## 🛠️ Tech Stack
 
