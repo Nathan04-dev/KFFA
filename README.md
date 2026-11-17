@@ -1,6 +1,6 @@
 # 🥊 KnockbackFFA
 
-Ein actionreicher Knockback-FFA-Spielmodus entwickelt von Nathanael Mabombo. Stelle dich spannenden Kämpfen gegen andere Spieler, stoße deine Gegner von der Plattform und kämpfe um den ersten Platz auf dem Leaderboard. Mit konfigurierbaren Spielmechaniken, verschiedenen Kits und einem integrierten Statistiksystem bietet der Spielmodus ein abwechslungsreiches Spielerlebnis.
+Ein actionreicher Knockback-FFA-Spielmodus entwickelt von Nathanael Mabombo. Stelle dich spannenden Kämpfen gegen andere Spieler, stoße deine Gegner von der Plattform und kämpfe um den ersten Platz auf dem Leaderboard.
 
 ## ✨ Features
 
